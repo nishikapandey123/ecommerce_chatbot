@@ -1,0 +1,7 @@
+Flask
+langchain
+chromadb
+psycopg2
+requests
+pandas
+streamlit
